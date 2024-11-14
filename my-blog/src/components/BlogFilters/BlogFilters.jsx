@@ -1,6 +1,6 @@
 import { memo } from 'react';
 import PropTypes from 'prop-types';
-import './BlogFilters.css';
+// import './BlogFilters.css';
 
 const BlogFilters = memo(function BlogFilters({
   filters,
