@@ -1,0 +1,43 @@
+.blogPost {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    border: 1px solid #e1e1e1;
+    border-radius: 8px;
+    background-color: #ffffff;
+  }
+  
+  .header {
+    margin-bottom: 1rem;
+  }
+  
+  .title {
+    font-size: 1.75rem;
+    margin: 0;
+    color: #333;
+  }
+  
+  .meta {
+    font-size: 0.9rem;
+    color: #777;
+    display: flex;
+    gap: 1rem;
+    margin-top: 0.5rem;
+  }
+  
+  .author {
+    font-weight: bold;
+  }
+  
+  .date {
+    color: #555;
+  }
+  
+  .readTime {
+    color: #888;
+  }
+  
+  .content {
+    margin-top: 1.5rem;
+    line-height: 1.6;
+  }
+  
